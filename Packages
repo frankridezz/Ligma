@@ -19,29 +19,15 @@ Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
+Size: 954,352
+MD5sum: B2306ACA6CC4AFE7CCC57210C98C0612
+Description: This is a ZEPPLINE. Firmware should be than 7.0
+Name: ZEPPline
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 
-Package: com.alexzielenski.zeppelin
-Version: 3.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.alexzielenski.zeppelin_2.1.0-12_iphoneos-arm
-Size: 931
-MD5sum: B2306ACA6CC4AFE7CCC57210C98C0612
-SHA1: D890A6B07D87E73F6FE50ED09DDCBDD1FBB12684
-sHA256: E786A1E78B97ABE1690388FE1795C9B32F1256428CAC6A49BD641F956CEE9113
-Description: This is a Best. Firmware should be lower than 7.0
-Name: ZeppLine
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.alexzielenski.zeppelin_2.1.0-12_iphoneos-arm
+
 
 
 
