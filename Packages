@@ -8,7 +8,7 @@ Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
+Name: Ligma
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
@@ -25,4 +25,18 @@ Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
+Package: com.Ligma.ZeppLine 69
+Version: 3.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.Ligma.ZeppLine 69_3.0.0-1_ipho
+MD5sum: B2306ACA6CC4AFE7CCC57210C98C0612
+Description: This is a Best Tweak. Firmware should be lower than 7.0neos-arm.deb
+Size: 931
+Name: ZeppLine 69
+Author:  <reposithree@gmail.com>
+Depiction:
 
